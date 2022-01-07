@@ -26,7 +26,7 @@ public class Main {
         int QuantidadeProduto = 50;
         final int NUMERO_TENTATIVAS = 5;
         final int numeroTentativas = 5;
-        int qtdProd = 10;
+        int qtdProd = 15;
 
         System.out.println(i);
         System.out.println(I);
